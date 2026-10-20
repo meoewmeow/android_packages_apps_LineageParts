@@ -514,7 +514,7 @@
     <string name="trust_feature_security_patches_value_new">aktuell</string>
     <string name="trust_feature_security_patches_value_medium">einige Monate veraltet</string>
     <string name="trust_feature_security_patches_value_old">veraltet</string>
-    <string name="trust_feature_security_patches_explain">Sicherheitspatches werden monatlich von Google in Zusammenarbeit mit SoC-Anbietern veröffentlicht. Diese beheben Fehler, mittels derer bösartige Anwendungen Sicherheitseinschränkungen umgehen und dein Gerät dauerhaft beschädigen können. Von Google bereitgestellte Patches werden jeden Monat auf alle unterstützten Geräte angewendet, aber Patches für proprietären Code können nur vom Hersteller deines Gerätes bereitgestellt werden. Um dein Gerät sicher zu halten, aktualisiere crDroid und (wenn möglich) dein Vendor-Image stets auf das von crDroid empfohlene.</string>
+    <string name="trust_feature_security_patches_explain">Sicherheitspatches werden monatlich von Google in Zusammenarbeit mit SoC-Anbietern veröffentlicht. Diese beheben Fehler, mittels derer bösartige Anwendungen Sicherheitseinschränkungen umgehen und dein Gerät dauerhaft beschädigen können. Von Google bereitgestellte Patches werden jeden Monat auf alle unterstützten Geräte angewendet, aber Patches für proprietären Code können nur vom Hersteller deines Gerätes bereitgestellt werden. Um dein Gerät sicher zu halten, aktualisiere meoewmeow und (wenn möglich) dein Vendor-Image stets auf das von meoewmeow empfohlene.</string>
     <string name="trust_feature_encryption">Verschlüsselung</string>
     <string name="trust_feature_encryption_value_enabled">Aktiviert</string>
     <string name="trust_feature_encryption_value_nolock">Benötigt einen sicheren Sperrbildschirm</string>

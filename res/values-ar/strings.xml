@@ -470,7 +470,7 @@
     <string name="trust_feature_security_patches_value_new">آخِر إصدار</string>
     <string name="trust_feature_security_patches_value_medium">بضعة أشهر قبل آخر تحديث</string>
     <string name="trust_feature_security_patches_value_old">غير محدّث</string>
-    <string name="trust_feature_security_patches_explain">تصدر تصحيحات الأمان شهريًا من Google بالتعاون مع موردي SoC لمعالجة العيوب التي يمكن استغلالها من قبل تطبيقات خبيثة لتجاوز القيود الأمنية ويتسبب في ذلك في ضرر دائم لجهازك. التحديثات التي أتاحتها Google تطبق كل شهر على جميع الأجهزة المدعومة، ولكن يمكن تطبيق تصحيحات رمز الملكية فقط من الشركة المصنعة لجهازك. للحفاظ على جعل جهازك آمن برجاء التأكد بأن اصدار crDroid الخاص بك محدث باستمرار، وضمان تحديث (إذا كان ممكنًا) صورة موردك إلى آخر اصدار موصى به من crDroid.</string>
+    <string name="trust_feature_security_patches_explain">تصدر تصحيحات الأمان شهريًا من Google بالتعاون مع موردي SoC لمعالجة العيوب التي يمكن استغلالها من قبل تطبيقات خبيثة لتجاوز القيود الأمنية ويتسبب في ذلك في ضرر دائم لجهازك. التحديثات التي أتاحتها Google تطبق كل شهر على جميع الأجهزة المدعومة، ولكن يمكن تطبيق تصحيحات رمز الملكية فقط من الشركة المصنعة لجهازك. للحفاظ على جعل جهازك آمن برجاء التأكد بأن اصدار meoewmeow الخاص بك محدث باستمرار، وضمان تحديث (إذا كان ممكنًا) صورة موردك إلى آخر اصدار موصى به من meoewmeow.</string>
     <string name="trust_feature_encryption">التشفير</string>
     <string name="trust_feature_encryption_value_enabled">مفعل</string>
     <string name="trust_feature_encryption_value_nolock">يحتاج شاشة قفل آمنة</string>
